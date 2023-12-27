@@ -1,4 +1,4 @@
-package com.example.jettriviaapp.presentation.ui.theme
+package com.example.jettriviaapp.util.ui.theme
 
 import android.app.Activity
 import android.os.Build
